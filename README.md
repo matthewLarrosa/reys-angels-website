@@ -33,10 +33,4 @@ Welcome to the Rey's Angel Printing website project! This website is being devel
 
 For inquiries or to place an order, feel free to contact Rey's Angel Printing at contact@reysangelprinting.com or visit our website at [www.reysangels.com](https://www.reysangelprinting.com).
 
----
-
-*Note: Make sure to replace placeholders such as `your-username`, `reys-angel-printing`, `screenshot.png`, and `contact@reysangelprinting.com` with your actual information.*
-
----
-
 *This project was developed by Matthew Larrosa for Rey's Angels Printing.*
