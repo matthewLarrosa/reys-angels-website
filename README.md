@@ -1,8 +1,8 @@
-# Rey's Angel Printing Website
+# Rey's Angels Printing Website
 
 ![Project Preview](screenshot.png) <!-- Replace with a screenshot of your project -->
 
-Welcome to the Rey's Angel Printing website project! This website is being developed for a local Miami printing business, showcasing their services, portfolio, and contact information. The project is built using React and TailwindCSS to create an engaging and user-friendly experience.
+Welcome to the Rey's Angels Printing website project! This website is being developed for a local Miami printing business, showcasing their services, portfolio, and contact information. The project is built using React and TailwindCSS to create an engaging and user-friendly experience.
 
 ## Project Overview
 
