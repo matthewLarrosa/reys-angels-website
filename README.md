@@ -13,7 +13,10 @@ Welcome to the Rey's Angels Printing website project! This website is being deve
 ## Technologies Used
 
 - React
-- TailwindCSS
+- Vue
+- Vite
+
+Written in Typescript
 
 ## Features
 
