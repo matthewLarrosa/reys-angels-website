@@ -1,6 +1,6 @@
 # Rey's Angels Printing Website
 
-![Project Preview](screenshot.png) <!-- Replace with a screenshot of your project -->
+https://github.com/matthewLarrosa/reys-angels-website/assets/95898375/84f71f45-e11d-4973-832d-ed466cdb5ac1
 
 Welcome to the Rey's Angels Printing website project! This website is being developed for a local Miami printing business, showcasing their services, portfolio, and contact information. The project is built using React and TailwindCSS to create an engaging and user-friendly experience.
 
