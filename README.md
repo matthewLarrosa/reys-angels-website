@@ -13,7 +13,7 @@ Welcome to the Rey's Angels Printing website project! This website is being deve
 ## Technologies Used
 
 - React
-- Vite
+- Next 13
 - TailwindCSS
 
 ## Features
