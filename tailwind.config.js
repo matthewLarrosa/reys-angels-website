@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        'primary': ['Inter']
+      },
       height: {
         '128': '32rem',
       },
