@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-      robo: ['"Roboto Condensed"']
+      robo: ['"Roboto Condensed"'],
+      lex: ['"Lexend"']
     }
   },
   },
